@@ -1,0 +1,44 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# Avoid uploading crash reports
+sysinfo.txt
+
+# Visual Studio / Rider
+.vscode/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.pidb
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Firebase / Android / iOS extras
+*.apk
+*.aab
+*.keystore
+*.gradle
+*.aar
+*.xcworkspace
+*.xcodeproj
+Pods/
+
+# Unity Asset Store tools
+Assets/Plugins/Editor/JetBrains*
+
+# TextMesh Pro
+Assets/TextMesh Pro/Resources/Font Assets/
+
+# Other
+*.DS_Store
